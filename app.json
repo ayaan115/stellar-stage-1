@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "stellar",
+    "slug": "stellar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
